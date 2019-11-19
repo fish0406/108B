@@ -9,7 +9,7 @@
 
 echo "hello world!<br>";
 
-
+echo "我是思婷";
 ?>
 </body>
 </html>
