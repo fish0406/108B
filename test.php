@@ -8,7 +8,7 @@
 
 
 echo "hello world!<br>";
-
+echo "我是呂明 ㄎㄎ!<br>";
 
 ?>
 </body>
